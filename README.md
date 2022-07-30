@@ -46,4 +46,4 @@ I learned how to deal with CSS and make everything looks great.
 ## Author
 
 - Frontend Mentor - [@AlaeGuida](https://www.frontendmentor.io/profile/alaeguida)
-- Twitter - [@yAlaeGuida](https://www.twitter.com/AlaeGuida)
+- Twitter - [@AlaeGuida](https://www.twitter.com/AlaeGuida)

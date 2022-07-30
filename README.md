@@ -18,7 +18,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 Users should be able to:
 
-- See hover and focus states for interactive elements
+- See hover and focus states for interactive elements.
 
 ### Screenshot
 
@@ -26,9 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Solution URL: [Solution](https://your-solution-url.com)
+- Live Site URL: [Live Site](https://your-live-site-url.com)
 
 ### Built with
 
@@ -46,6 +45,5 @@ I learned how to deal with CSS and make everything looks great.
 
 ## Author
 
-- Website - [Add your name here](https://www.github.com/AlaeGuida)
-- Frontend Mentor - [@alaeguida](https://www.frontendmentor.io/profile/alaeguida)
-- Twitter - [@yourusername](https://www.twitter.com/AlaeGuida)
+- Frontend Mentor - [@AlaeGuida](https://www.frontendmentor.io/profile/alaeguida)
+- Twitter - [@yAlaeGuida](https://www.twitter.com/AlaeGuida)
